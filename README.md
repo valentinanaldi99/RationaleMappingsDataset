@@ -121,7 +121,7 @@ The attributes of the documents stored in each file are listed below.
 - text: the data point's input text;
 - summary: the data point's output text, i.e., the summary of the input text.
 
-## TS Mappings attributes
+## QA Mappings attributes
 
 ### External Mappings
 
