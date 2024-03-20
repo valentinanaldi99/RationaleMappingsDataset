@@ -99,7 +99,7 @@ The attributes of the documents stored in each file are listed below.
 - counter: the number of IRT the node is found in (ONLY FOR  MAPPINGS IN CRTS);
 - perc: the number of IRT the node is found in over the total number of IRTs used for creating the CRT (ONLY FOR  MAPPINGS IN CRTS)
 
-# IRT_QA
+## IRT_QA
 
 - _id: unique id;
 - paragraph: the data poin's paragraph;
